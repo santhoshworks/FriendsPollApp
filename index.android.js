@@ -11,7 +11,7 @@ import {
 
 import App from './src/App';
 
-export default class AwesomeProject extends Component {
+export default class FriendsPollApp extends Component {
   render() {
     return (
       <App />
@@ -20,4 +20,4 @@ export default class AwesomeProject extends Component {
 }
 
 
-AppRegistry.registerComponent('AwesomeProject', () => AwesomeProject);
+AppRegistry.registerComponent('FriendsPollApp', () => FriendsPollApp);

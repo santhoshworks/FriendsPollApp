@@ -1,4 +1,4 @@
-package com.awesomeproject;
+package com.FriendsPollApp;
 
 import android.app.Application;
 
